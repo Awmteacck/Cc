@@ -4,7 +4,7 @@ import time
 from telebot import types
 from gate import Tele
 import os
-token = '7902782706:AAE-IS88ujC2w8zb8CT0LAs25joNPFUw8mI' #bottoken
+token = '7740237222:AAEUJJBK7iLOMYTsox9epp7iG2unPQvYXmY' #bottoken
 bot=telebot.TeleBot(token,parse_mode="HTML")
 subscriber = '6318673920'
 allowed_users = ['6318673920']  #Your ID
